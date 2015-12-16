@@ -1,18 +1,25 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Lumenier/QAV210-CHARPU",
+    "esc": "Flyduino/KISS-30-Amp-ESC-2-6s",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "Seriously-Pro/SP-Racing-F3-(Acro)",
+    "prop": [
+      "UnknownManufacturer/innov8tivedesigns/HQ-5x4-Prop,-Green,-3-Blade,-Normal-Rotation-(2-Pack)",
+      "HQ 5x4 Prop, Green, 3-Blade, Reverse Rotation (2-Pack)"
+    ],
+    "arm": "",
+    "battery": [
+      "Thunder-Power/1300mAh-4s-70c-Lipo-Battery",
+      "Thunder-Power/1800mAh-4s-70c-Lipo-Battery"
+    ],
+    "osd": "DTF-UHF/OSDoge-OSD-for-the-Naze32",
+    "receiver": "",
+    "flightcam": "Surveilzone/HS1177-Sony-Super-HAD-II",
+    "hqcam": "",
+    "videotx": "UnknownManufacturer/flyingrobot/FX799T-2-200MW-5.8Ghz-40Ch-Race-Band-Video-Transmitter-with-push-button-SMA",
+    "blackbox": "",
+    "voltagereg": "DTF-UHF/OSDoge-OSD-for-the-Naze32"
+  },
+  "version": 1
 }
