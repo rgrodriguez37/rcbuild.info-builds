@@ -14,7 +14,7 @@
       "Thunder-Power/1800mAh-4s-70c-Lipo-Battery"
     ],
     "osd": "DTF-UHF/OSDoge-OSD-for-the-Naze32",
-    "receiver": "",
+    "receiver": "Spektrum Satellite",
     "flightcam": "Surveilzone/HS1177-Sony-Super-HAD-II",
     "hqcam": "",
     "videotx": "UnknownManufacturer/flyingrobot/FX799T-2-200MW-5.8Ghz-40Ch-Race-Band-Video-Transmitter-with-push-button-SMA",
